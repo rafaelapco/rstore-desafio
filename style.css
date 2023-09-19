@@ -13,8 +13,34 @@ li {
     display: inline-block;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 130px;
-    margin-top: 50px;
+    margin-left: 100px;
+    margin-top: 30px;
     color: white;
 }
 
+div {
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 20px;
+    border: solid lightgrey;
+}
+
+img {
+    width: 300px;
+}
+
+h2, h3,
+button, p {
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+form {
+    display: inline-block;
+    margin-left: 80px;
+}
+
+footer {
+    margin-top: 10px;
+    background-color: lightgrey;
+}
