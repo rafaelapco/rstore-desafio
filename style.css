@@ -1,0 +1,20 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+header {
+height: 90px;
+background-color: #1c1c1c;
+}
+
+li {
+    display: inline-block;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 130px;
+    margin-top: 50px;
+    color: white;
+}
+
