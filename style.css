@@ -5,16 +5,17 @@ box-sizing: border-box;
 }
 
 header {
-height: 100px;
-background-color: lightgrey;
+height: 80px;
+background-color: darkgrey;
 }
 
 li {
     display: inline-block;
-    font-size: 20px;
-    color: deeppink;
-    margin-left: 100px;
-    margin-top: 50px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin-left: 180px;
+    margin-top: 20px;
 }
 
 div {
@@ -35,11 +36,12 @@ p {
 h3,
 button, 
 form {
-    margin-left: 60px;
+    margin-left: 50px;
     margin-top: 10px;
 }
 
 footer {
-    height: 100px;
-    margin-top: 50px;
+    height: 130px;
+    margin-top: 80px;
+    background-color: lightgrey;
 }
