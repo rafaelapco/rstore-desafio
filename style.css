@@ -5,42 +5,41 @@ box-sizing: border-box;
 }
 
 header {
-height: 90px;
-background-color: #1c1c1c;
+height: 100px;
+background-color: lightgrey;
 }
 
 li {
     display: inline-block;
     font-size: 20px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: deeppink;
     margin-left: 100px;
-    margin-top: 30px;
-    color: white;
+    margin-top: 50px;
 }
 
 div {
     display: inline-block;
-    margin-left: 60px;
-    margin-top: 20px;
-    border: solid lightgrey;
+    margin-top: 40px;
+    margin-left: 100px;
+    border: solid lightgray;
 }
 
 img {
-    width: 300px;
+    width: 200px;
 }
 
-h2, h3,
-button, p {
-    margin-left: 110px;
-    margin-top: 20px;
+p {
+    margin-left: 20px;
 }
 
+h3,
+button, 
 form {
-    display: inline-block;
-    margin-left: 80px;
+    margin-left: 60px;
+    margin-top: 10px;
 }
 
 footer {
-    margin-top: 10px;
-    background-color: lightgrey;
+    height: 100px;
+    margin-top: 50px;
 }
